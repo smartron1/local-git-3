@@ -1,6 +1,16 @@
+id = 55e67664-2d18-484e-bb85-8aa3587ffd1a
+
 [relations]
-Prime Video_477932-f0950f62-3caf-4dc2-bf18-e214cc0e35ce.json = test
-Test_558568-10ff978f-eba8-44d9-aadf-7b7885483dbe.json = test
-New Collection1_558568-180a0d7a-1266-41f4-8cf4-fdccee14e902.json = test
-New Collection_735639-113abe86-f75d-4613-b26f-633d8597f89d.json = test
-New Collection_735639-73b787ce-82e1-485a-a619-75c1da357974.json = test
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"558568-10ff978f-eba8-44d9-aadf-7b7885483dbe","path":"Test_558568-10ff978f-eba8-44d9-aadf-7b7885483dbe.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
