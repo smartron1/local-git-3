@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '1'
-  title: 'Local git - Name changed'
+  title: 'Local git - Name changed Again'
   license:
     name: MIT
 servers:
