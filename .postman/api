@@ -14,9 +14,10 @@ files[] = {"id":"735639-73b787ce-82e1-485a-a619-75c1da357974","path":"New Collec
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"index.yaml","metaData":{}}
 files[] = {"path":"New Schema.yaml","metaData":{}}
 files[] = {"path":"Unrelated schema.yaml","metaData":{}}
+files[] = {"path":"Newly new schema.yaml","metaData":{}}
+files[] = {"path":"Created schema.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
