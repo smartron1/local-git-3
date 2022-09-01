@@ -5,17 +5,19 @@ id = 55e67664-2d18-484e-bb85-8aa3587ffd1a
 [relations.collections]
 rootDirectory = postman/collections
 files[] = {"id":"558568-180a0d7a-1266-41f4-8cf4-fdccee14e902","path":"New Collection1_558568-180a0d7a-1266-41f4-8cf4-fdccee14e902.json","metaData":{}}
-files[] = {"id":"735639-113abe86-f75d-4613-b26f-633d8597f89d","path":"New Collection_735639-113abe86-f75d-4613-b26f-633d8597f89d.json","metaData":{}}
-files[] = {"id":"735639-73b787ce-82e1-485a-a619-75c1da357974","path":"New Collection_735639-73b787ce-82e1-485a-a619-75c1da357974.json","metaData":{}}
 files[] = {"id":"477932-f0950f62-3caf-4dc2-bf18-e214cc0e35ce","path":"Prime Video_477932-f0950f62-3caf-4dc2-bf18-e214cc0e35ce.json","metaData":{}}
+files[] = {"id":"735639-113abe86-f75d-4613-b26f-633d8597f89d","path":"New Collection_735639-113abe86-f75d-4613-b26f-633d8597f89d.json","metaData":{}}
 files[] = {"id":"558568-10ff978f-eba8-44d9-aadf-7b7885483dbe","path":"Test_558568-10ff978f-eba8-44d9-aadf-7b7885483dbe.json","metaData":{}}
+files[] = {"id":"735639-73b787ce-82e1-485a-a619-75c1da357974","path":"New Collection_735639-73b787ce-82e1-485a-a619-75c1da357974.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"index.yaml","metaData":{}}
-files[] = {"path":"index2.yaml","metaData":{}}
+files[] = {"path":"New Schema.yaml","metaData":{}}
+files[] = {"path":"Unrelated schema.yaml","metaData":{}}
+files[] = {"path":"Newly new schema.yaml","metaData":{}}
+files[] = {"path":"Created schema.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
