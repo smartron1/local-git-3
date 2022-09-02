@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: "1"
-  title: "Local git - Modified from Remote"
+  title: "Local git - Modified from Postman"
   license:
     name: MIT
 servers:
