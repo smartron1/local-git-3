@@ -9,12 +9,6 @@ rootDirectory = postman/collections
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"index.yaml","metaData":{}}
-files[] = {"path":"new added conflict.yaml","metaData":{}}
-files[] = {"path":"new schema.yaml","metaData":{}}
-files[] = {"path":"new.yaml","metaData":{}}
-files[] = {"path":"new1.yaml","metaData":{}}
-files[] = {"path":"newly remote.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
