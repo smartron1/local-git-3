@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: "1"
-  title: "Local git"
+  title: "Local git 2"
   license:
     name: MIT
 servers:
