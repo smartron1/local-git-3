@@ -1,4 +1,4 @@
-id = f4b08b74-4295-4b11-b7f2-78504f695a96
+id = 55e67664-2d18-484e-bb85-8aa3587ffd1a
 
 [relations]
 
@@ -9,9 +9,7 @@ rootDirectory = postman/collections
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"folder1/index7.yaml","metaData":{}}
-files[] = {"path":"folder1/kinia.yaml","metaData":{}}
-files[] = {"path":"folder2/index3.yaml","metaData":{}}
+files[] = {"path":"index Copy.yaml","metaData":{}}
 files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
