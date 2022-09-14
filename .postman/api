@@ -9,6 +9,7 @@ files[] = {"id":"735639-113abe86-f75d-4613-b26f-633d8597f89d","path":"New Collec
 files[] = {"id":"735639-73b787ce-82e1-485a-a619-75c1da357974","path":"New Collection_735639-73b787ce-82e1-485a-a619-75c1da357974.json","metaData":{}}
 files[] = {"id":"477932-f0950f62-3caf-4dc2-bf18-e214cc0e35ce","path":"Prime Video_477932-f0950f62-3caf-4dc2-bf18-e214cc0e35ce.json","metaData":{}}
 files[] = {"id":"558568-10ff978f-eba8-44d9-aadf-7b7885483dbe","path":"Test_558568-10ff978f-eba8-44d9-aadf-7b7885483dbe.json","metaData":{}}
+files[] = {"id":"bbe14a9a-fec3-4040-b89f-31635d6558eb","path":"vvv.json","metaData":{}}
 
 [relations.collections.metaData]
 
