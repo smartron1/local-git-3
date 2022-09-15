@@ -14,7 +14,6 @@ files[] = {"id":"558568-558568-10ff978f-eba8-44d9-aadf-7b7885483dbe","path":"Tes
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"Second Renamed schema.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
