@@ -4,14 +4,11 @@ id = 758ad089-4829-4569-97e7-d75e50cbbefe
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"558568-2499aee7-9f2d-4751-a98c-6b2f0836ae21","path":"Initial schema collection.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"Initial schema.yaml","metaData":{}}
-files[] = {"path":"Kane.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
