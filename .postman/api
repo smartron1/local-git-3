@@ -1,0 +1,26 @@
+id = 55e67664-2d18-484e-bb85-8aa3587ffd1a
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"558568-c8f1d64a-c568-467f-9c34-fb832af15c5f","path":"New Collection Develop.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"folder1/index7.yaml","metaData":{}}
+files[] = {"path":"folder1/kinia.yaml","metaData":{}}
+files[] = {"path":"folder2/index3.yaml","metaData":{}}
+files[] = {"path":"Hemlo/hemlo.yaml","metaData":{}}
+files[] = {"path":"Hemlo/hemlo2.yaml","metaData":{}}
+files[] = {"path":"Hemlo/hemlo3.yaml","metaData":{}}
+files[] = {"path":"index Copy Copy.yaml","metaData":{}}
+files[] = {"path":"index Copy.yaml","metaData":{}}
+files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"Index2.yaml","metaData":{}}
+files[] = {"path":"New.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
