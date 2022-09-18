@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "c8f1d64a-c568-467f-9c34-fb832af15c5f",
+		"name": "New Collection Develop",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "558568-c8f1d64a-c568-467f-9c34-fb832af15c5f"
+	},
+	"item": [
+		{
+			"name": "Develop",
+			"id": "295c1222-28b9-41ca-80a9-f02cb62157ed",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "developaaaa",
+					"host": [
+						"developaaaa"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
