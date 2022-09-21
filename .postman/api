@@ -12,7 +12,6 @@ files[] = {"id":"558568-c8f1d64a-c568-467f-9c34-fb832af15c5f","path":"New Collec
 rootDirectory = postman/schemas
 files[] = {"path":"folder1/index7.yaml","metaData":{}}
 files[] = {"path":"folder1/kinia.yaml","metaData":{}}
-files[] = {"path":"folder1/New.yaml","metaData":{}}
 files[] = {"path":"folder1/New2.yaml","metaData":{}}
 files[] = {"path":"folder2/index3.yaml","metaData":{}}
 files[] = {"path":"Hemlo/hemlo.yaml","metaData":{}}
