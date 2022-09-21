@@ -10,7 +10,7 @@ files[] = {"id":"558568-c8f1d64a-c568-467f-9c34-fb832af15c5f","path":"New Collec
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"again from remote.yaml","metaData":{}}
+files[] = {"path":"added remote.yaml","metaData":{}}
 files[] = {"path":"folder1/index7.yaml","metaData":{}}
 files[] = {"path":"folder1/kinia.yaml","metaData":{}}
 files[] = {"path":"folder1/New.yaml","metaData":{}}
@@ -22,7 +22,7 @@ files[] = {"path":"Hemlo/hemlo3.yaml","metaData":{}}
 files[] = {"path":"Hemlo/New.yaml","metaData":{}}
 files[] = {"path":"index.yaml","metaData":{}}
 files[] = {"path":"index2.yaml","metaData":{}}
-files[] = {"path":"new from remote.yaml","metaData":{}}
+files[] = {"path":"new.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
