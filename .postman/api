@@ -23,7 +23,6 @@ files[] = {"path":"Hemlo/New.yaml","metaData":{}}
 files[] = {"path":"index.yaml","metaData":{}}
 files[] = {"path":"index2.yaml","metaData":{}}
 files[] = {"path":"new.yaml","metaData":{}}
-files[] = {"path":"New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
