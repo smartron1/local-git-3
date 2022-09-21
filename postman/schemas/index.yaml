@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '1'
-  title: 'CUE-3158 - Updated from Postman hemlo'
+  title: 'Pull Test'
   license:
     name: MIT
 servers:
