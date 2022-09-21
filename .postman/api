@@ -13,6 +13,7 @@ rootDirectory = postman/schemas
 files[] = {"path":"folder1/index7.yaml","metaData":{}}
 files[] = {"path":"folder1/kinia.yaml","metaData":{}}
 files[] = {"path":"folder1/New.yaml","metaData":{}}
+files[] = {"path":"folder1/New2.yaml","metaData":{}}
 files[] = {"path":"folder2/index3.yaml","metaData":{}}
 files[] = {"path":"Hemlo/hemlo.yaml","metaData":{}}
 files[] = {"path":"Hemlo/hemlo2.yaml","metaData":{}}
