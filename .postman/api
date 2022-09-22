@@ -12,6 +12,7 @@ files[] = {"id":"558568-c8f1d64a-c568-467f-9c34-fb832af15c5f","path":"New Collec
 rootDirectory = postman/schemas
 files[] = {"path":"added remote 2.yaml","metaData":{}}
 files[] = {"path":"bew mulkti.yaml","metaData":{}}
+files[] = {"path":"enw.yaml","metaData":{}}
 files[] = {"path":"folder1/index7.yaml","metaData":{}}
 files[] = {"path":"folder1/kinia.yaml","metaData":{}}
 files[] = {"path":"folder1/New.yaml","metaData":{}}
@@ -26,7 +27,6 @@ files[] = {"path":"index2.yaml","metaData":{}}
 files[] = {"path":"multi.yaml","metaData":{}}
 files[] = {"path":"new conflict.yaml","metaData":{}}
 files[] = {"path":"new multi.yaml","metaData":{}}
-files[] = {"path":"new.yaml","metaData":{}}
 files[] = {"path":"New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
