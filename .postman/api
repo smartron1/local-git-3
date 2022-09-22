@@ -22,6 +22,7 @@ files[] = {"path":"Hemlo/hemlo3.yaml","metaData":{}}
 files[] = {"path":"Hemlo/New.yaml","metaData":{}}
 files[] = {"path":"index.yaml","metaData":{}}
 files[] = {"path":"index2.yaml","metaData":{}}
+files[] = {"path":"multi.yaml","metaData":{}}
 files[] = {"path":"new conflict.yaml","metaData":{}}
 files[] = {"path":"new.yaml","metaData":{}}
 
