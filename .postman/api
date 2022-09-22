@@ -27,6 +27,7 @@ files[] = {"path":"multi.yaml","metaData":{}}
 files[] = {"path":"new conflict.yaml","metaData":{}}
 files[] = {"path":"new multi.yaml","metaData":{}}
 files[] = {"path":"new.yaml","metaData":{}}
+files[] = {"path":"New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
