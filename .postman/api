@@ -27,6 +27,9 @@ files[] = {"path":"index2.yaml","metaData":{}}
 files[] = {"path":"multi.yaml","metaData":{}}
 files[] = {"path":"new multi.yaml","metaData":{}}
 files[] = {"path":"New.yaml","metaData":{}}
+files[] = {"path":"see here/New (1).yaml","metaData":{}}
+files[] = {"path":"see here/New.yaml","metaData":{}}
+files[] = {"path":"see here/new1.yaml","metaData":{}}
 files[] = {"path":"test222.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
